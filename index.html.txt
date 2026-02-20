@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Das Developer | Construction Company</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+        }
+        header {
+            background: #1f2d3d;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background: #16202c;
+            text-align: center;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 14px;
+        }
+        section {
+            padding: 40px 20px;
+            text-align: center;
+            background: white;
+            margin: 10px;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #1f2d3d;
+        }
+        .btn {
+            background: #27ae60;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        footer {
+            background: #111;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Das Developer</h1>
+    <p>Building Trust With Quality Construction</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Us</h2>
+    <p>Das Developer undertakes projects on Labour Contract Basis and Turnkey Basis. 
+    We ensure quality workmanship, timely delivery, and professional project management.</p>
+</section>
+
+<section id="services">
+    <h2>Our Services</h2>
+    <p>✔ Residential & Commercial Building Construction</p>
+    <p>✔ Aluform & Structural Work</p>
+    <p>✔ Labour Contract & Turnkey Projects</p>
+    <p>✔ Project Planning & Execution</p>
+</section>
+
+<section id="projects">
+    <h2>Our Projects</h2>
+    <p>We have successfully completed multiple residential and commercial projects 
+    with high-quality standards and client satisfaction.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>📞 Phone: +91-XXXXXXXXXX</p>
+    <p>📧 Email: yourmail@example.com</p>
+    <a href="#" class="btn">Get In Touch</a>
+</section>
+
+<footer>
+    <p>© 2026 Das Developer. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
